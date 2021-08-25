@@ -1,0 +1,18 @@
+﻿ID,Nombre del Producto,Categoria,PC,PVP,PVM
+100001,Bananas,Frutas,30 $Ars,100 $Ars,75 $Ars
+100002,Manzana,Frutas,15 $Ars,80 $Ars,60 $Ars
+100003,Agua,Bebidas no Alcoholicas,10 $Ars,50 $Ars,35 $Ars
+100004,Café,Bebidas no Alcoholicas,30 $Ars,90 $Ars,50 $Ars
+100005,Gaseosa,Bebidas no Alcoholicas,75 $Ars,110 $Ars,88 $Ars
+100006,Mayonesa,Salsas,40 $Ars,80 $Ars,60 $Ars
+100007,Ketchup,Salsas,30 $Ars,60 $Ars,45 $Ars
+100008,Mostaza,Salsas,35 $Ars,70 $Ars,60 $Ars
+100009,Leche,Lacteos,50 $Ars,100 $Ars,75 $Ars
+100010,Yogurt,Lacteos,60 $Ars,120 $Ars,90 $Ars
+100011,Pollo,Carne,200 $Ars,400 $Ars,350 $Ars
+100012,Milanesa,Carne,300 $Ars,500 $Ars,400 $Ars
+100013,Bistek,Carne,400 $Ars,700 $Ars,600 $Ars
+100014,Cervezas,Bebidas Alcoholicas,200 $Ars,400 $Ars,300 $Ars
+100015,Vino,Bebidas Alcoholicas,200 $Ars,300 $Ars,250 $Ars
+100016,Ron,Bebidas Alcoholicas,800 $Ars,1200 $Ars,1000 $Ars
+100017,Whisky,Bebidas Alcoholicas,1500 $Ars,3000 $Ars,2500 $Ars
